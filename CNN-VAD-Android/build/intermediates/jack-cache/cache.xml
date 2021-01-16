@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abhisheksehgal/.android/build-cache/7b4dde237bde83a6ca4a6e0c46b0a2ae83a94071/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-34db03507ec810eb3e251e396346faca299018f2.jar" />
+    </item>
+    <item
+        jar="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/libs/libandroid_tensorflow_inference_java.jar"
+        revision="25.0.0"
+        sha1="63aaf9e149e9aa9d44edf8bfc96395a51efa4419">
+        <dex dex="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/libandroid_tensorflow_inference_java-4af898f14e093c7e735ffe04995951634ff8f4d6.jar" />
+    </item>
+    <item
+        jar="/Users/abhisheksehgal/.android/build-cache/1175b7af5db52e63705414a8d13475b3d90e8009/output/jars/libs/internal_impl-23.4.0.jar"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-23.4.0-314ce868081e6c19121988c8cb99b77a605d3af8.jar" />
+    </item>
+    <item
+        jar="/Users/abhisheksehgal/Library/Android/sdk/platforms/android-23/optional/org.apache.http.legacy.jar"
+        revision="25.0.0"
+        sha1="017030d11901291abf8f83a812984276b643ea0f">
+        <dex dex="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-97ce38ad822ef9d0f9684330626bfae298fbb8cb.jar" />
+    </item>
+    <item
+        jar="/Users/abhisheksehgal/.android/build-cache/1175b7af5db52e63705414a8d13475b3d90e8009/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7a868aa93ababa8a363c7cb57ed5f9ed5e170678.jar" />
+    </item>
+    <item
+        jar="/Users/abhisheksehgal/Library/Android/sdk/platforms/android-23/android.jar"
+        revision="25.0.0"
+        sha1="eee3e49de0e3c71c5f278ba7e4fe847483f9084c">
+        <dex dex="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-892f39d4f3da109c070efcede405aec8441ab466.jar" />
+    </item>
+    <item
+        jar="/Users/abhisheksehgal/.android/build-cache/9b54bb0b445dbb29090663141ff4abdc1badfb58/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f233a82f7abd046812ce4c82b24f9d1a211f306b.jar" />
+    </item>
+    <item
+        jar="/Users/abhisheksehgal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-23.4.0-1b7080c0010aa002c6958938be427e1687bdbfde.jar" />
+    </item>
+    <item
+        jar="/Users/abhisheksehgal/.android/build-cache/5c48daeb89e18c931c8704d3ab33b4d284a16f8a/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/CNN-VAD/CNN-VAD-Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-53ccb62cb595207ccdba71cccc007336aadd8606.jar" />
+    </item>
+
+</items>
