@@ -1,5 +1,4 @@
 # Convolutional Neural Network based Voice Activity Detector
-https://ieeexplore.ieee.org/document/8278160/
 
 ## Overview
 
