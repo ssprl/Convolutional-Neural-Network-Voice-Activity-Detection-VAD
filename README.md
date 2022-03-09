@@ -12,7 +12,7 @@ You can find the paper for this GitHub repository : https://ieeexplore.ieee.org/
 
 ## Video Demo
 
-https://www.utdallas.edu/ssprl/files/CNN-VAD-Video.mp4?_=7
+https://labs.utdallas.edu/ssprl/files/2020/09/16CNN-VAD-Video.mp4
 
 ## License and Citation
 The codes are licensed under MIT license.
